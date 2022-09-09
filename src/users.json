@@ -1,0 +1,74 @@
+
+
+  [
+  {
+    "username": "Superman",
+    "role": "Admin",
+    "minPasswordLength": 12,
+    "location": "USA",
+    "inUse": true
+  },
+  {
+    "username": "Aquaman",
+    "role": "Lifegaurd",
+    "minPasswordLength": 7,
+    "location": "SeaWorld",
+    "inUse": true
+  },
+  {
+    "username": "Wonder Woman",
+    "role": "Lasso Operations",
+    "minPasswordLength": 14,
+    "location": "Amazonia",
+    "inUse": true
+  },   
+  {
+    "username": "The Hulk",
+    "role": "Smash",
+    "minPasswordLength": 1,
+    "location": "Unknown",
+    "inUse": false
+  },   
+  {
+    "username": "Batman",
+    "role": "Money",
+    "minPasswordLength": 25,
+    "location": "Redacted",
+    "inUse": true
+  },   
+  {
+    "username": "Tony Stark",
+    "role": "Also Money",
+    "minPasswordLength": 30,
+    "location": "Yacht",
+    "inUse": true
+  },   
+  {
+    "username": "Captain America",
+    "role": "Captain",
+    "minPasswordLength": 11,
+    "location": "America",
+    "inUse": true
+  },   
+  {
+    "username": "Antman",
+    "role": "Shrinking",
+    "minPasswordLength": 5,
+    "location": "The Quantum Realm",
+    "inUse": false
+  },   
+  {
+    "username": "Black Panther",
+    "role": "Protector",
+    "minPasswordLength": 13,
+    "location": "Wakanda",
+    "inUse": false
+  },   
+  {
+    "username": "Thor",
+    "role": "Hammer Time",
+    "minPasswordLength": 7,
+    "location": "New Asgard ",
+    "inUse": true
+  }   
+  ]
