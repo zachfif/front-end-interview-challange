@@ -10,9 +10,9 @@ function App() {
   const [display, setDisplay] = useState(false)
 
 
-const handleSubmit = (event) => {
-  event.preventDefault()
-  const formData = new FormData(event.target),
+const handleSubmit = (submit) => {
+  submit.preventDefault()
+  const formData = new FormData(submit.target),
       formDataObj = Object.fromEntries(formData.entries())
   let users = formDataObj["numUsers"]
   if (typeof users === "string") {
